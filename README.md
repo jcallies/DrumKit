@@ -1,4 +1,4 @@
-"# DrumKit" 
+# DrumKit 
 
 Interactive application which plays sounds from a drum kit. Application made using HTML, CSS, and JavaScript as part of London App Brewery’s Web Development Bootcamp course. Each button will play a sound when clicked or when the corresponding key is pressed.
 
